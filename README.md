@@ -16,7 +16,7 @@
 - Bootstrap
 - VScode
 - Azure app service
-- Static web service
+- Static web app
 
 
 
